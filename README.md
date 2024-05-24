@@ -5,4 +5,5 @@
 - 百度云：链接：https://pan.baidu.com/s/1PPpPrSljZKh3i2RDT4hk2Q 提取码：oz3l
 
 ## 示例
-![](./case.jpg)
+
+![c](./case.png)
